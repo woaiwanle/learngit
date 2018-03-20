@@ -2,5 +2,5 @@
 echo "who are you";
 echo "welcome to git";
 echo "where is git";
-echo "王新龙";
+echo "you are lucky dag";
 ?>
